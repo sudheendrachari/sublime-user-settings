@@ -18,7 +18,9 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"index_exclude_patterns": [],
+	"index_exclude_patterns":
+	[
+	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 3,
 	"material_theme_bold_tab": true,

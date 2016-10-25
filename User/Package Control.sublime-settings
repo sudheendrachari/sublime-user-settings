@@ -10,8 +10,9 @@
 	],
 	"installed_packages":
 	[
+		"BracketHighlighter",
+		"Handlebars",
 		"HTML-CSS-JS Prettify",
-		"HypnotoadSVN",
 		"Material Theme",
 		"Package Control",
 		"SideBarEnhancements",
