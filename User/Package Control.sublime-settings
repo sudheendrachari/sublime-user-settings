@@ -10,14 +10,21 @@
 	],
 	"installed_packages":
 	[
+		"ayu",
+		"Babel",
 		"BracketHighlighter",
 		"Handlebars",
 		"HTML-CSS-JS Prettify",
 		"Material Theme",
 		"Package Control",
+		"Restart",
+		"SCSS",
+		"Seti_UI",
 		"SideBarEnhancements",
+		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
+		"Terminal",
 		"TortoiseSVN",
 		"TypeScript"
 	]
