@@ -8,9 +8,11 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 12,
+	"font_size": 11,
 	"ignored_packages":
 	[
+		"FileManager",
+		"SublimeLinter",
 		"TortoiseSVN",
 		"Vintage"
 	],
@@ -31,5 +33,6 @@
 	"material_theme_compact_panel": true,
 	"material_theme_tabs_autowidth": true,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Material-Theme-Darker.sublime-theme"
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"word_wrap": false
 }

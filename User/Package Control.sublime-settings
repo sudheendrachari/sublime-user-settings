@@ -10,22 +10,27 @@
 	],
 	"installed_packages":
 	[
-		"ayu",
+		"All Autocomplete",
 		"Babel",
 		"BracketHighlighter",
+		"FileManager",
+		"GitGutter",
 		"Handlebars",
+		"Hover Image Preview",
 		"HTML-CSS-JS Prettify",
 		"Material Theme",
 		"Package Control",
-		"Restart",
 		"SCSS",
-		"Seti_UI",
 		"SideBarEnhancements",
 		"SublimeGit",
 		"SublimeLinter",
-		"SublimeLinter-jshint",
+		"SublimeLinter-eslint",
 		"Terminal",
-		"TortoiseSVN",
-		"TypeScript"
+		"ToggleQuotes",
+		"TortoiseSVN"
+	],
+	"repositories":
+	[
+		"https://github.com/math2001/FileManager"
 	]
 }
