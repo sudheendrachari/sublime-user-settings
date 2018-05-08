@@ -10,9 +10,11 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"All Autocomplete",
 		"Babel",
 		"BracketHighlighter",
+		"ESLint",
 		"FileManager",
 		"GitGutter",
 		"Handlebars",
@@ -25,6 +27,7 @@
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
+		"SublimeLinter-stylelint",
 		"Terminal",
 		"ToggleQuotes",
 		"TortoiseSVN"
