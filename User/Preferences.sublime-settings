@@ -1,7 +1,6 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"font_face": "Meslo LG M DZ for Powerline",
 	"font_options":
 	[
@@ -33,6 +32,5 @@
 	"material_theme_compact_panel": true,
 	"material_theme_tabs_autowidth": true,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Material-Theme-Darker.sublime-theme",
 	"word_wrap": false
 }
