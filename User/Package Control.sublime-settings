@@ -6,35 +6,28 @@
 	],
 	"in_process_packages":
 	[
-		"TortoiseSVN"
 	],
 	"installed_packages":
 	[
-		"A File Icon",
-		"All Autocomplete",
 		"Babel",
 		"BracketHighlighter",
 		"DocBlockr",
 		"ESLint",
-		"FileManager",
 		"GitGutter",
 		"Handlebars",
-		"Hover Image Preview",
 		"HTML-CSS-JS Prettify",
 		"Material Theme",
 		"Package Control",
 		"SCSS",
 		"SideBarEnhancements",
 		"SublimeGit",
-		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SublimeLinter-stylelint",
 		"Terminal",
 		"ToggleQuotes",
-		"TortoiseSVN"
 	],
 	"repositories":
 	[
 		"https://github.com/math2001/FileManager"
-	]
+	],
 }
